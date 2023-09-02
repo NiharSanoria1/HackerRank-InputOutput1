@@ -39,20 +39,4 @@ Sample Output
 42
 100
 125
-Language
-Java 15
-More
-123456789
-import java.io.*;
-import java.util.*;
 
-public class Solution {
-
-    public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-    }
-}
-Line: 9 Col: 2
-
-Test against custom input
-BlogScoring
